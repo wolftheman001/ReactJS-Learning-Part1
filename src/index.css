@@ -1,0 +1,20 @@
+.nav-color {
+  background-color: #f34f50;
+}
+.location {
+  font-size: 1.5rem;
+}
+.location-icon {
+  color: #f34f50;
+  font-size: 1.5rem;
+}
+.location-link {
+  font-size: 1rem;
+  text-decoration: underline;
+}
+.content-image {
+  width: 45rem;
+  object-fit: cover;
+  height: 15rem;
+  border-radius: 1rem;
+}
